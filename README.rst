@@ -5,6 +5,11 @@ The Night Land
 
 This is a git repository of the source files for the fantasy novel `*The Night Land* (1912) by William Hope Hodgson <http://en.wikipedia.org/wiki/The_Night_Land>`__. This book is in the Public Domain, see the LICENSE file for details.
 
+A digitized print edition is available at https://archive.org/details/nightlandlovetal00hodg
+
+An audio recording is available at https://archive.org/details/nightland_1501_librivox
+
+
 Found an error?
 ===============
 If you find an error in a book in GITenberg, you can report it by clicking the Issues tab in this book’s repository. Please copy-and-paste the entire sentence that contains the error, and what the text should read. For advanced users, you can make a Pull Request on Github.  For more information and how to get involved see the CONTRIBUTING_ section of the GITenberg website.

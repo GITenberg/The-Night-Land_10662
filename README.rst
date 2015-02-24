@@ -3,7 +3,7 @@ The Night Land
 =====================
 
 
-This is a git repository of the source files for the book The Night Land by Hodgson, William Hope. This book is in the Public Domain, see the LICENSE file for details.
+This is a git repository of the source files for the fantasy novel `*The Night Land* (1912) by William Hope Hodgson <http://en.wikipedia.org/wiki/The_Night_Land>`__. This book is in the Public Domain, see the LICENSE file for details.
 
 Found an error?
 ===============

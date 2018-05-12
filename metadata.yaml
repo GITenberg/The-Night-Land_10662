@@ -1,5 +1,8 @@
 _repo: The-Night-Land_10662
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hodgson, William Hope
@@ -30,6 +33,8 @@ description: "The Night Land is a classic horror novel by William Hope Hodgson, 
   \ of million of years. Starting from this premise, Hodgson wrote a novel describing\
   \ a time, millions of years in the future, when the Sun has gone dark.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10662#The-Night-Land
 gutenberg_bookshelf:
 - Fantasy
 - Horror
